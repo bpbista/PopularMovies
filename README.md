@@ -1,1 +1,24 @@
 # PopularMovies
+- written solely in the Java Programming Language.
+- Displayed movies in the main layout via a grid of their corresponding movie poster.
+- Contained a settings menu to toggle the sort order movies by most popular, highest rated, upcoming, lasted, now playing, favorites
+- Displayed the details for a selected movie
+- Utilized okhttp3 library for network request
+- Used ButterKnife library to bind data do views 
+- Parsed JSON response to model object
+- RESTful calls to The Movie Database API
+- Got trailers data from API
+- Listed trailers in horizontal recycler view
+- Played trailer via youtube
+- Designed complicated nested layout
+- Applied floating button icon to make movie favorite or unfavorite
+- Applied sharing to external media
+- got reviews from API and listed in nested recycler view
+- Designed layout for multiple screen sizes
+- Successfully implemented CRUD operations on SQLite database
+- Communicated with database via Content Providers
+- Used cursor loaders to load data from database in background thread
+- Constructed different Uris and URLs for different purposes
+- Maintained instance state for future retrieval while rotating screen
+- Completed successfully huge project for a single developer from scratch to completion
+
